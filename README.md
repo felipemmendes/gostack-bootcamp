@@ -1,5 +1,5 @@
 # gostack-challenges
-An index of repo challenges I did for Rocketseat's GoStack Bootcamp.
+An index of challenges I did for Rocketseat's GoStack Bootcamp.
 
 
 ### Node.js
