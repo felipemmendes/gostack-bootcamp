@@ -1,4 +1,4 @@
-# gostack-challenges
+# gostack-bootcamp
 An index of challenges I did for [Rocketseat's GoStack Bootcamp](https://rocketseat.com.br/gostack).
 
 
