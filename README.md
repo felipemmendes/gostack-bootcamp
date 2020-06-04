@@ -1,6 +1,17 @@
 # gostack-bootcamp
-An index of challenges I did for [Rocketseat's GoStack Bootcamp](https://rocketseat.com.br/gostack).
+An index of projects I did for [Rocketseat's GoStack Bootcamp](https://rocketseat.com.br/gostack).
 
+## GoBarber Project
+Server, web, and mobile apps for barbers and clients.
+
+* [Server](https://github.com/felipemmendes/gostack11-gobarber-backend) - **WIP** API for users, authentication, appointments, file storage, notifications and mail sending management.
+
+* [Web](https://github.com/felipemmendes/gostack11-gobarber-frontend) - **WIP** Sign up, sign in, barber dashboard and profile management.
+
+* [Mobile](https://github.com/felipemmendes/gostack11-gobarber-mobile) - **WIP** Sign up, sign in, customer dashboard, profile and appointment management.
+
+## Challenges
+Repos of completeted challenges.
 
 ### Node.js
 * [Node.js 1](https://github.com/felipemmendes/gostack-desafio2) - Node.js and Javascript concepts.
@@ -16,3 +27,31 @@ An index of challenges I did for [Rocketseat's GoStack Bootcamp](https://rockets
 ### React Native
 * [React Native 1](https://github.com/felipemmendes/gostack-desafio4) - React Native and Javascript concepts.
 * [React Native 2](https://github.com/felipemmendes/gostack-desafio8) - React Native and Typescript fundamentals.
+
+## What I've learned
+
+### Node.js
+* REST architeture and RESTful API
+* HTTP methods and requests
+* Routing and middlewares
+* ORM (TypeORM and Sequelize ORM)
+* SQL (PostgreSQL) and noSQL (MongoDB, Redis) databases
+* Authentication with JWT
+* Cache storage
+* Exception handling
+
+### React
+* State and immutability
+* React Hooks (useState, useCallback, useEffect, useMemo, useRef)
+* Context API
+* Personalized hooks
+* CSS in JS (Styled Components)
+* Authentication and private routes
+* Local storage
+* Toasts and Alerts
+
+### Others
+* MVC, Repository, and Service patterns
+* SOLID, DDD, and TDD principles
+* Docker
+* Amazon SES and S3
