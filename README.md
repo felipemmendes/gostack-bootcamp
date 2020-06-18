@@ -27,6 +27,7 @@ Repos of completeted challenges.
 ### React Native
 * [React Native 1](https://github.com/felipemmendes/gostack-desafio4) - React Native and Javascript concepts.
 * [React Native 2](https://github.com/felipemmendes/gostack-desafio8) - React Native and Typescript fundamentals.
+* [React Native 3](https://github.com/felipemmendes/gostack-desafio11) - Navigation and filters with React Native and Typescript.
 
 ## What I've learned
 
