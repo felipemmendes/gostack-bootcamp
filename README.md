@@ -6,9 +6,9 @@ Server, web, and mobile apps for barbers and clients.
 
 * [Server](https://github.com/felipemmendes/gostack11-gobarber-backend) - API for users, authentication, appointments, file storage, notifications and mail sending management.
 
-* [Web](https://github.com/felipemmendes/gostack11-gobarber-frontend) - **WIP** Sign up, sign in, barber dashboard and profile management.
+* [Web](https://github.com/felipemmendes/gostack11-gobarber-frontend) - Sign up, sign in, barber dashboard and profile management.
 
-* [Mobile](https://github.com/felipemmendes/gostack11-gobarber-mobile) - **WIP** Sign up, sign in, customer dashboard, profile and appointment management.
+* [Mobile](https://github.com/felipemmendes/gostack11-gobarber-mobile) - Sign up, sign in, customer dashboard, profile and appointment management.
 
 ## Challenges
 Repos of completeted challenges.
