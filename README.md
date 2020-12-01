@@ -4,7 +4,7 @@ An index of projects I did for [Rocketseat's GoStack Bootcamp](https://rocketsea
 ## GoBarber Project
 Server, web, and mobile apps for barbers and clients.
 
-* [Server](https://github.com/felipemmendes/gostack11-gobarber-backend) - **WIP** API for users, authentication, appointments, file storage, notifications and mail sending management.
+* [Server](https://github.com/felipemmendes/gostack11-gobarber-backend) - API for users, authentication, appointments, file storage, notifications and mail sending management.
 
 * [Web](https://github.com/felipemmendes/gostack11-gobarber-frontend) - **WIP** Sign up, sign in, barber dashboard and profile management.
 
